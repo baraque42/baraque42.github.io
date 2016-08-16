@@ -44,22 +44,6 @@ img{
     padding-top:0px;
 }
 
-.textbox {
-    width:70%;
-    color: red;
-    font-size: 110%;
-    background:gray;
-    padding: 4px;
-    border:1px solid white;
-}
-
-.button {
-    background: red;
-    font-size: 110%;
-    color:gray;
-    padding: 4px;
-    border:2px solid green;
-}
 
 
 }
@@ -75,8 +59,4 @@ img{
     display: inline-block;
     vertical-align: top;   
 }
-.box img{
-    margin: 0;
-    padding: 0;
-    width: 100%;
-}
+
