@@ -48,6 +48,8 @@ var rules = {
     "Apologies are not necessary",
     "What feelings do you have when you apologize",
   ],
+  "~*x Rose ~*y": [
+  	"took care of that shit yearsss ago"]
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
     "Does thinking of ~y bring anything else to mind?",
