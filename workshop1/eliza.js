@@ -85,8 +85,8 @@ var rules = {
     "Have you ever fantasized ~y while you were awake",
     "Have you dreamt of ~y before?",
   ],
-  "~*x I dream about ~*y": [
-    "How do you feel about ~y in reality?",
+  "~*x I watch anime ~*y": [
+    "Bocu no pico is the best anime",
   ],
   "~*x dream ~*y": [
     "What does this dream suggest to you?",
