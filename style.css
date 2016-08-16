@@ -54,11 +54,11 @@ img{
 }
 
 .button {
-    background: white;
+    background: red;
     font-size: 110%;
     color:gray;
     padding: 4px;
-    border:2px solid white;
+    border:2px solid green;
 }
 
 .redacted{
